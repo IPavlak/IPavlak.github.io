@@ -48,7 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I graduated from Faculty of Electrical Engineering and Computing, **University of Zagreb** in 2021. Primary focus of my education was control systems design and robotics in general.
+  For my Master's thesis I implemented path generation for UAVs that are visually inspecting buildings. // TODO: move to projects -> Additionally app was developed, it gathered building data from online database, connected to Google maps to visualize that building and draw a generated path on it so operator can easily inspect the generated path in 2D space.
+
+  In 2021. after my graduation, I started working at Croatian based startup **Gideon Brothers**. My primary focus there was **navigation**, more precisely path following algorithms. But I had a chance to work on a lot of different aspects of robotics, I worked on control system for steering on double ackermann drive, path generation, detection of moving obstacles, communication between robots and coordination of multiple robots with time optimization.
+  
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
