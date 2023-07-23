@@ -63,7 +63,6 @@ content:
       - layout: left
         title: UAV path generation - building inspections
         link: github.com/IPavlak/GmapsGMLDrawing
-        icon: fab fa-github
         # link_text: Project Website
         additional_links:
           - title:  GmapsGMLDrawing
@@ -74,7 +73,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Project was developed for my Master's thesis. It was consisted of 2 parts: path generation algorithm and desktop app for parameter input and path visualization.
           App gathered building data from online database, connected to Google maps to visualize that building and draw a generated path on it so operator can easily inspect the generated path in 2D space.
-          <img src="images/path_gen_thesis.png>
+          <img src="images/path_gen_thesis.png">
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
