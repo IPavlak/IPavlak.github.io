@@ -74,7 +74,7 @@ content:
           Project was developed for my Master's thesis. It was consisted of 2 parts: path generation algorithm and desktop app for parameter input and path visualization.
           App gathered building data from online database, connected to Google maps to visualize that building and draw a generated path on it so operator can easily inspect the generated path in 2D space.
 
-          <img src="images/path_gen_thesis.png" width="350" height="auto" align="center">
+          &emsp; &emsp; &emsp; &emsp; &emsp; <img src="images/path_gen_thesis.png" width="350" height="auto" align="center">
 
       - layout: left
         title: Time series simulator
