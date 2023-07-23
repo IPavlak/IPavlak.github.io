@@ -49,7 +49,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I graduated from Faculty of Electrical Engineering and Computing, **University of Zagreb** in 2021. Primary focus of my education was control systems design and robotics in general.
-  For my Master's thesis I implemented path generation for UAVs that are visually inspecting buildings. // TODO: move to projects -> Additionally app was developed, it gathered building data from online database, connected to Google maps to visualize that building and draw a generated path on it so operator can easily inspect the generated path in 2D space.
+  For my Master's thesis I implemented path generation for UAVs that are visually inspecting buildings.
 
   In 2021. after my graduation, I started working at Croatian based startup **Gideon Brothers**. My primary focus there was **navigation**, more precisely path following algorithms. But I had a chance to work on a lot of different aspects of robotics, I worked on control system for steering on double ackermann drive, path generation, detection of moving obstacles, communication between robots and coordination of multiple robots with time optimization.
   
@@ -60,9 +60,9 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+      - layout: left
+        title: UAV path generation - building inspections
+        link: github.com/IPavlak/GmapsGMLDrawing
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -71,10 +71,11 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Project was developed for my Master's thesis. It was consisted of 2 parts: path generation algorithm and desktop app for parameter input and path visualization.
+          App gathered building data from online database, connected to Google maps to visualize that building and draw a generated path on it so operator can easily inspect the generated path in 2D space.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
