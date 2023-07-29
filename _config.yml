@@ -92,6 +92,8 @@ content:
         description: |
           This was my personal project. I wanted to test some of my machine learning algorithms on real market data, unfortunately I did not find any simulator on which I could run Python code.
           So as a personal project and opportunity to learn different frameworks like pandas library or Qt, I started working on my own timeseries simulator.
+
+          <br>
           <br>
 
           &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <img src="images/time_series_sim.png" width="350" height="auto">
