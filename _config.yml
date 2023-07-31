@@ -101,7 +101,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: right
         title: Gideon Brothers
         link: gideon.ai
         # link_text: gideonbros.ai
@@ -110,7 +110,21 @@ content:
         quote: >
           Building the world's most flexible autonomous mobile robots
         description: | # this will include new lines to allow paragraphs
-          My primary job was designing and developing path following algorithm, it sends velocity references to robot in order to follow given path. I was in charge of creating and implementing code architecture for that part of the stack. During my time at the company I also had a chance to work on many other fields and gain experience in different parts of stack, from low level control system to high level multirobot operations. Some of the projects I was involved in are: designing PID regulator, develop detection and tracking of moving obstacles based on recent papers using 2D lidars, develop communication system between multiple robots, develop multirobot coordination algorithm with time optimizations.
+# TODO: table -> description | 
+          My primary job was designing and developing **path following algorithm**, it sends velocity references to robot in order to follow given path. I was in charge of creating and implementing code architecture for that part of the stack. During my time at the company I also had a chance to work on many other fields and gain experience in different parts of stack, from low level control system to high level multirobot operations. 
+Some of the projects I was involved in are: 
+    * designing PID regulator, develop detection and tracking of moving obstacles based on recent papers using 2D lidars, develop communication system between multiple robots, develop multirobot coordination algorithm with time optimizations.
+
+      - layout: right
+        title: Erricson
+        link: gideon.ai
+        # link_text: gideonbros.ai
+        sub_title: Navigation engineer
+        caption: 2021 - Present
+        quote: >
+          Building the world's most flexible autonomous mobile robots
+        description: | # this will include new lines to allow paragraphs
+fds
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
