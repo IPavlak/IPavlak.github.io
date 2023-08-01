@@ -122,6 +122,20 @@ content:
           <br>
 
       - layout: left
+        title: FER
+        link: fer.unizg.hr
+        # link_text: geolux-radars.com
+        sub_title: Junior C++ developer
+        caption: 2020 - 2021 Part time
+        quote: >
+          Leading national and regional high education institution
+        description: | # this will include new lines to allow paragraphs
+         Designing a trajectory suitable for inspection of buildings and wind turbines. Using C++ PCL library to process point clouds and obtain desired trajectory.
+
+          <br>
+          <br>
+
+      - layout: left
         title: Geolux
         link: geolux-radars.com
         # link_text: geolux-radars.com
