@@ -109,8 +109,7 @@ content:
         caption: 2021 - Present
         quote: >
           Building the world's most flexible autonomous mobile robots
-        description: | # this will include new lines to allow paragraphs
-# TODO: table -> description | 
+        description: | # this will include new lines to allow paragraphs    # TODO: table -> description | 
           My primary job was designing and developing **path following algorithm**, it sends velocity references to robot in order to follow given path. I was in charge of creating and implementing code architecture for that part of the stack. During my time at the company I also had a chance to work on many other fields and gain experience in different parts of stack, from low level control system to high level multirobot operations. 
 Some of the projects I was involved in are 
 
