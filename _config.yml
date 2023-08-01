@@ -119,16 +119,16 @@ content:
             * develop multirobot coordination algorithm with time optimizations.
 
 
-      - layout: right
-        title: Erricson
-        link: gideon.ai
+      - layout: left
+        title: Ericsson
+        link: ericsson.com
         # link_text: gideonbros.ai
-        sub_title: Navigation engineer
-        caption: 2021 - Present
+        sub_title: MATLAB programmer - communication system design
+        caption: Jul 2019 - Sep 2019 Internship
         quote: >
-          Building the world's most flexible autonomous mobile robots
+          We create connections that make the unimaginable possible
         description: | # this will include new lines to allow paragraphs
-          fds
+          I worked in a team that was designing a model of OFDM communication system in MATLAB. We had to design the whole system from scratch and later implement that model on real RF platform. Assignment was completed successfully.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
