@@ -124,7 +124,7 @@ content:
       - layout: left
         title: FER
         link: fer.unizg.hr
-        # link_text: geolux-radars.com
+        # link_text: fer.unizg.hr
         sub_title: Junior C++ developer
         caption: 2020 - 2021 Part time
         quote: >
@@ -159,6 +159,22 @@ content:
           We create connections that make the unimaginable possible
         description: | # this will include new lines to allow paragraphs
           I worked in a team that was designing a model of **OFDM communication system** in MATLAB. We had to design the whole system from scratch and later implement that model on real RF platform. Assignment was completed successfully.
+
+          <br>
+          <br>
+
+      - layout: left
+        title: FER
+        link: fer.unizg.hr
+        # link_text: fer.unizg.hr
+        sub_title: Teacher assistant - electromagnetic fields
+        caption: Feb 2017 - Jun 2017
+        quote: >
+          Leading national and regional high education institution
+        description: | # this will include new lines to allow paragraphs
+          Helping students with their tasks on practical exercises.
+
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
