@@ -118,17 +118,33 @@ content:
             * develop communication system between multiple robots
             * develop multirobot coordination algorithm with time optimizations.
 
+          <br>
+          <br>
+
+      - layout: left
+        title: Geolux
+        link: geolux-radars.com
+        # link_text: geolux-radars.com
+        sub_title: Machine learning programmer
+        caption: Sep 2019 - Oct 2019 Internship
+        quote: >
+          We are a European-based fast-growing company and niche leader in the hydrology radar and sensor industry
+        description: | # this will include new lines to allow paragraphs
+          Design **convolutional neural** network suited for their specific problem and implementing network in Python. After successful training and testing, implementing that network in C++ for prediction (forward pass only).
+
+          <br>
+          <br>
 
       - layout: left
         title: Ericsson
         link: ericsson.com
-        # link_text: gideonbros.ai
-        sub_title: MATLAB programmer - communication system design
+        # link_text: ericsson.com
+        sub_title: MATLAB programmer
         caption: Jul 2019 - Sep 2019 Internship
         quote: >
           We create connections that make the unimaginable possible
         description: | # this will include new lines to allow paragraphs
-          I worked in a team that was designing a model of OFDM communication system in MATLAB. We had to design the whole system from scratch and later implement that model on real RF platform. Assignment was completed successfully.
+          I worked in a team that was designing a model of **OFDM communication system** in MATLAB. We had to design the whole system from scratch and later implement that model on real RF platform. Assignment was completed successfully.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
