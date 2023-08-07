@@ -52,9 +52,6 @@ about_content: | # this will include new lines to allow paragraphs
   For my Master's thesis I implemented path generation for UAVs that are visually inspecting buildings.
 
   In 2021. after my graduation, I started working at Croatian based startup **Gideon Brothers**. My primary focus there was **navigation**, more precisely path following algorithms. But I had a chance to work on a lot of different aspects of robotics, I worked on control system for steering on double ackermann drive, path generation, detection of moving obstacles, communication between robots and coordination of multiple robots with time optimization.
-  
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
@@ -201,7 +198,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       During my career I have gained experience in many different fields I had interest in. My goal was to have basic understanding of how things work, on higher at least. So for example I have basic understanding of machine (and deep) learning and I worked with convolutinal networks. Also I have some experience in designing some signal filters and control systems (regulators).
-
+      &nbsp;
 
       <mark>C++ &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; </mark>
 
