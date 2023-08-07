@@ -197,6 +197,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Thesis: <i> ... acrobatic manuevers </i>
 
+
   - title: Skillset
     layout: text
     content: | # this will include new lines to allow paragraphs
