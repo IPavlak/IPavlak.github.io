@@ -135,7 +135,7 @@ content:
           <br>
           <br>
 
-      - layout: left
+      - layout: right
         title: Geolux
         link: geolux-radars.com
         # link_text: geolux-radars.com
@@ -163,7 +163,7 @@ content:
           <br>
           <br>
 
-      - layout: left
+      - layout: right
         title: FER
         link: fer.unizg.hr
         # link_text: fer.unizg.hr
