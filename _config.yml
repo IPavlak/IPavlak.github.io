@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile_pic1.jpg
 about_content: | # this will include new lines to allow paragraphs
   I graduated from Faculty of Electrical Engineering and Computing, **University of Zagreb** in 2021. Primary focus of my education was control systems design and robotics in general.
   For my Master's thesis I implemented path generation for UAVs that are visually inspecting buildings.
