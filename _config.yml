@@ -185,7 +185,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Thesis: <i> Software modules for cadaster data incorporation in aerial vehicle user interface </i>
 
-          Work was also presented in the paper: [<i>Civil infrastructure data acquisition in urban environments based on multi-UAV mission</i>] (https://ieeexplore.ieee.org/abstract/document/9476735)
+          Work was also presented in the paper: [<i>Civil infrastructure data acquisition in urban environments based on multi-UAV mission</i>](https://ieeexplore.ieee.org/abstract/document/9476735)
 
       - layout: left
         title: University of Zagreb
