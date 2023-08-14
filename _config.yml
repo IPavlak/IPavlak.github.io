@@ -141,7 +141,7 @@ content:
         quote: >
           We are a European-based fast-growing company and niche leader in the hydrology radar and sensor industry
         description: | # this will include new lines to allow paragraphs
-          Design **convolutional neural** network suited for their specific problem and implementing network in Python. After successful training and testing, implementing that network in C++ for prediction (forward pass only).
+          Design **convolutional neural network** suited for their specific problem and implementing network in Python. After successful training and testing, implementing that network in C++ for prediction (forward pass only).
 
           <br>
           <br>
