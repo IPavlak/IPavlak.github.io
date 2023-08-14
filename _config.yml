@@ -184,7 +184,7 @@ content:
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading #         #university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           Thesis: <i> Software modules for cadaster data incorporation in aerial vehicle user interface </i>
-Work was also presented in the paper: [<i>Civil infrastructure data acquisition in urban environments based on multi-UAV mission</i>] (https://ieeexplore.ieee.org/abstract/document/9476735)
+          Work was also presented in the paper: [<i>Civil infrastructure data acquisition in urban environments based on multi-UAV mission</i>] (https://ieeexplore.ieee.org/abstract/document/9476735)
 
       - layout: left
         title: University of Zagreb
